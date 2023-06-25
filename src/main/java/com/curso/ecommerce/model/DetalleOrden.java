@@ -5,7 +5,7 @@ public class DetalleOrden {
 	private String nombre;
 	private double cantidad;
 	private double precio;
-	private double total;
+	private double total1;
 	
 	// constructor vacio
 	public DetalleOrden() {
